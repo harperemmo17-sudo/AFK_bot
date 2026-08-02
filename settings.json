@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "AFK_BOT",
+    "password": "905290560829",
     "type": "offline"
   },
   "server": {
-    "ip": "SlimeSMP-yMHU.aternos.me:43401",
-    "port": 43401,
+    "ip": "SlimeeeSMP.aternos.me",
+    "port": 58702,
     "version": "1.21.1"
   },
   "position": {
